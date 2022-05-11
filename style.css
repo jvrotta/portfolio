@@ -557,7 +557,7 @@ footer {
   background: linear-gradient(107.21deg, #c961de 24.43%, #2954a3 68.95%);
 }
 
-@media (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   #header {
     left: 50%;
     top: 0%;
